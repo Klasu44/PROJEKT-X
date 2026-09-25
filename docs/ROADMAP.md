@@ -8,8 +8,8 @@
 6. **Content 1994–1998** — pierwszy pełny okres kampanii i grywalny vertical slice. **DONE**
 7. **Content 1999–2004** — rozwinięcie świata zależne od stanu kampanii. **DONE**
 8. **Content 2005–2010 + Endgame** — sukcesja, finały, kronika państwa. **DONE**
-9. **Presentation** — pełne UI, mapa, dokumenty, telewizja, dossier, audio i assety. **NEXT**
-10. **Integration** — spięcie wszystkich systemów i pełny przebieg kampanii.
+9. **Presentation** — pełne UI, mapa, dokumenty, telewizja, dossier, audio i assety. **DONE — visual pass 1**
+10. **Integration** — spięcie wszystkich systemów i pełny przebieg kampanii. **NEXT**
 11. **Playtest & Balance** — exploity, martwe systemy, tempo, balans, testy regresji.
 12. **Release 1.0** — save/load, onboarding, polishing, build produkcyjny.
 
