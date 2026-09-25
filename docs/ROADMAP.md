@@ -3,7 +3,7 @@
 1. **World Foundation** — kanon świata, historia, regiony, ustrój, gospodarka, sąsiedzi, kierunek wizualny, działający szkielet aplikacji. **DONE**
 2. **People & Factions** — ~30 głównych NPC, relacje, ambicje, sekrety, frakcje wewnętrzne i pamięć relacji. **DONE**
 3. **State Simulation** — budżet, gospodarka, parlament, administracja, bezpieczeństwo, armia, media i regiony. **DONE**
-4. **Political Engine** — przysługi, wpływy, nominacje, kompromaty, negocjacje, koalicje, zobowiązania i pamięć decyzji.
+4. **Political Engine** — przysługi, wpływy, nominacje, kompromaty, negocjacje, koalicje, zobowiązania i pamięć decyzji. **DONE**
 5. **Event Engine** — warunki, priorytety, event chains, opóźnione konsekwencje, ukryta informacja i działania AI.
 6. **Content 1994–1998** — pierwszy pełny okres kampanii i grywalny vertical slice.
 7. **Content 1999–2004** — rozwinięcie świata zależne od stanu kampanii.
