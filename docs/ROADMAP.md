@@ -9,9 +9,9 @@
 7. **Content 1999–2004** — rozwinięcie świata zależne od stanu kampanii. **DONE**
 8. **Content 2005–2010 + Endgame** — sukcesja, finały, kronika państwa. **DONE**
 9. **Presentation** — pełne UI, mapa, dokumenty, telewizja, dossier, audio i assety. **DONE — visual pass 1**
-10. **Integration** — spięcie wszystkich systemów i pełny przebieg kampanii. **NEXT**
-11. **Playtest & Balance** — exploity, martwe systemy, tempo, balans, testy regresji.
-12. **Release 1.0** — save/load, onboarding, polishing, build produkcyjny.
+10. **Integration** — spięcie kampanii, kryzysów, państwa, polityki oraz trwałego zapisu/wczytywania. **DONE**
+11. **Playtest & Balance** — exploity, martwe systemy, tempo, balans, testy regresji. **NEXT**
+12. **Release 1.0** — onboarding, polishing, build produkcyjny.
 
 ## Cel 1.0
 Około 300–500 połączonych wydarzeń zamiast tysięcy izolowanych okienek; ~30 kluczowych NPC; 7 ośrodków siły; kilkanaście dużych wieloetapowych kryzysów; proceduralna kronika kampanii i wysoka regrywalność.
