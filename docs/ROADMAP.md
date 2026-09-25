@@ -5,7 +5,7 @@
 3. **State Simulation** — budżet, gospodarka, parlament, administracja, bezpieczeństwo, armia, media i regiony. **DONE**
 4. **Political Engine** — przysługi, wpływy, nominacje, kompromaty, negocjacje, koalicje, zobowiązania i pamięć decyzji. **DONE**
 5. **Event Engine** — warunki, priorytety, event chains, opóźnione konsekwencje, ukryta informacja i działania AI. **DONE**
-6. **Content 1994–1998** — pierwszy pełny okres kampanii i grywalny vertical slice.
+6. **Content 1994–1998** — pierwszy pełny okres kampanii i grywalny vertical slice. **IN PROGRESS — 1994 CHAPTER PLAYABLE**
 7. **Content 1999–2004** — rozwinięcie świata zależne od stanu kampanii.
 8. **Content 2005–2010 + Endgame** — sukcesja, finały, kronika państwa.
 9. **Presentation** — pełne UI, mapa, dokumenty, telewizja, dossier, audio i assety.
